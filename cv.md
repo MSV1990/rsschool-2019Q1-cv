@@ -22,7 +22,7 @@ SIARHEI MATSIASH
 I'm 28 years old, not married. I work in a trolley park and repair trolley electronics.
 I work here since 2010 year.
 I want to learn,grow and enjoy what I do, in my current job, I don't get it anymore and want to change it.
-I learn very quickly and I am very interested in web development, because it's very exciting to me to create something new and proffession of web developer gives a lot of possibilities for it. For now i'm styding in [RSschool](https://rs.school/js/).
+I learn very quickly and I am very interested in web development, because it's very exciting to me to create something new and proffession of web developer gives a lot of possibilities for it. For now i'm studing in [RSschool](https://rs.school/js/).
 
 ***
 
