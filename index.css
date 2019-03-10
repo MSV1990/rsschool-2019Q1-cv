@@ -18,14 +18,12 @@ hr{
 .code{
     background-color:#f6f8fa;
     margin-bottom: 8px;
-    
-}
-
-code{
+    border-radius: 3px;
     font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
     font-size: 14px;
     color: #24292e;
 }
+
 .experience a, .school{
     color: #0366d6;
     text-decoration: none;
