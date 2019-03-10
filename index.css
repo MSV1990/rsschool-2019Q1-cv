@@ -10,6 +10,9 @@ body{
     
 }
 
+h1{
+    text-align: center;
+}
 hr{
     height: 4px;
     background-color:  #e1e4e8;
