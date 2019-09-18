@@ -10,7 +10,7 @@ SIARHEI MATSIASH
 
 [![](phone.png)](tel:+375295754135) +375295754135
 
-[![](mail.png)](e-mail: htconemailbox@gmail.com) htconemailbox@gmail.com
+[![](mail.png)](e-mail:htconemailbox@gmail.com) htconemailbox@gmail.com
 
 [![](git.png)](https://github.com/MSV1990) GitHub
 
